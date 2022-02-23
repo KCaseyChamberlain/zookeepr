@@ -144,6 +144,24 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "ALEX",
+      "species": "monkey",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "ALEX",
+      "species": "sssss",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
